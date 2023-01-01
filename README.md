@@ -1,3 +1,3 @@
 It a personal webpage.
-You can also edit it for your own personal
+You can also edit it for personal
 Use if needed.
